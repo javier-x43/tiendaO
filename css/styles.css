@@ -80,5 +80,7 @@ a:hover {
 }
 
 @media screen and (max-width:480px) {
-    .responsive {}
+    .responsive {
+        width: 100%;
+    }
 }
