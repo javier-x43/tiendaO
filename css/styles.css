@@ -78,3 +78,7 @@ a:hover {
     font-size: 35px;
     color: #36A0FF;
 }
+
+@media screen and (max-width:480px) {
+    .responsive {}
+}
